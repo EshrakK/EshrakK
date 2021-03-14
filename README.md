@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EshrakK
 - 👀 I’m interested in applying python in data science and machine learning
-- 🌱 I’m currently learning C++ in my free time while doing my B.Sc. in engineering
-- 💞️ I’m looking to collaborate on projects that suit my interest  
+- 🌱 I’m currently doing my B.Sc. in engineering and learning python, C++ in my free time 
+- 💞️ I’m looking to collaborate on projects with like minded people  
 - 📫 How to reach me eshrak.kader@gmail.com
 
 <!---
